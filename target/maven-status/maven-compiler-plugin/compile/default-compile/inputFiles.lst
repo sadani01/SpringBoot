@@ -1,0 +1,10 @@
+C:\Users\sasso\IdeaProjects\SpringBoot\src\main\java\com\b2b\spring\boot\demo\Application.java
+C:\Users\sasso\IdeaProjects\SpringBoot\src\main\java\com\b2b\spring\boot\demo\controller\api\AuthenticationAPI.java
+C:\Users\sasso\IdeaProjects\SpringBoot\src\main\java\com\b2b\spring\boot\demo\controller\AuthenticationController.java
+C:\Users\sasso\IdeaProjects\SpringBoot\src\main\java\com\b2b\spring\boot\demo\security\AuthorizationHeaderFilter.java
+C:\Users\sasso\IdeaProjects\SpringBoot\src\main\java\com\b2b\spring\boot\demo\security\PasswordEncoderBean.java
+C:\Users\sasso\IdeaProjects\SpringBoot\src\main\java\com\b2b\spring\boot\demo\security\SecurityBeans.java
+C:\Users\sasso\IdeaProjects\SpringBoot\src\main\java\com\b2b\spring\boot\demo\security\SecurityConfig.java
+C:\Users\sasso\IdeaProjects\SpringBoot\src\main\java\com\b2b\spring\boot\demo\service\AuthenticationService.java
+C:\Users\sasso\IdeaProjects\SpringBoot\src\main\java\com\b2b\spring\boot\demo\service\implementation\AuthenticationServiceImpl.java
+C:\Users\sasso\IdeaProjects\SpringBoot\src\main\java\com\b2b\spring\boot\demo\utils\JwtUtils.java
